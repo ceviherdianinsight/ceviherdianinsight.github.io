@@ -21,9 +21,9 @@ date: 2021-11-09
  
 > **Software Needs (+exercise)**: <a href="https://github.com/itsmecevi/softwareneeds/blob/main/softwareneeds.pdf">Click Here</a>
  
-> **X-Step by Step System Analyst**: <a href="">Click Here</a>
+> **Step by Step System Analyst**: <a href="">Click Here</a>
  
-> **X-Methods**: <a href="">Click Here</a>
+> **Methods**: <a href="https://github.com/itsmecevi/methods/blob/main/methods.pdf">Click Here</a>
  
 __________
  
