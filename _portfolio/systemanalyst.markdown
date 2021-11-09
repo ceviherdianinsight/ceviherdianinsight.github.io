@@ -17,17 +17,15 @@ date: 2021-11-09
 
 > **System Analyst Terminology**: <a href="https://github.com/itsmecevi/saterminology/blob/main/saterminology.pdf">Click Here</a>
  
-> **Software & Software Engineer**: <a href="">Click Here</a>
+> **X-Software & Software Engineer**: <a href="">Click Here</a>
  
-> **Software Needs**: <a href="">Click Here</a>
+> **X-Software Needs**: <a href="">Click Here</a>
  
-> **Step by Step System Analyst**: <a href="">Click Here</a>
+> **X-Step by Step System Analyst**: <a href="">Click Here</a>
  
-> **Methods**: <a href="">Click Here</a>
+> **X-Methods**: <a href="">Click Here</a>
  
-
- 
- 
+__________
  
 > **System Analyst Rockstar**: <a href="https://www.canva.com/design/DAEvOfwOrnA/1Vx0ddwmEt8Qpqmshp9n6w/view?utm_content=DAEvOfwOrnA&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink">Click Here</a>
  
@@ -38,9 +36,6 @@ date: 2021-11-09
 > **Business Intelligence System (Case Study)**: <a href="https://github.com/itsmecevi/widya-bi/blob/main/Widya-BI101.pdf">Click Here</a>
  
 
-  
-__________
-  
  
  1. UML
  2. Interactive Use Case
