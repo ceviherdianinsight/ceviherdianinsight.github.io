@@ -15,7 +15,10 @@ date: 2021-11-09
   
 <Br> 
 
-> **System Analyst Terminology**: <a href="">Click Here</a>
+> **System Analyst Terminology**: <a href="https://github.com/itsmecevi/saterminology/blob/main/saterminology.pdf">Click Here</a>
+ 
+> **System Analyst Rockstar**: <a href="https://www.canva.com/design/DAEvOfwOrnA/1Vx0ddwmEt8Qpqmshp9n6w/view?utm_content=DAEvOfwOrnA&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink">Click Here</a>
+ 
 
 
   
