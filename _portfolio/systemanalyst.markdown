@@ -17,7 +17,7 @@ date: 2021-11-09
 
 > **System Analyst Terminology**: <a href="https://github.com/itsmecevi/saterminology/blob/main/saterminology.pdf">Click Here</a>
  
-> **X-Software & Software Engineer**: <a href="">Click Here</a>
+> **Software & Software Engineer**: <a href="https://github.com/itsmecevi/software/blob/main/software.pdf">Click Here</a>
  
 > **X-Software Needs**: <a href="">Click Here</a>
  
