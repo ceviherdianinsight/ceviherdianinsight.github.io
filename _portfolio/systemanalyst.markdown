@@ -19,7 +19,12 @@ date: 2021-11-09
  
 > **System Analyst Rockstar**: <a href="https://www.canva.com/design/DAEvOfwOrnA/1Vx0ddwmEt8Qpqmshp9n6w/view?utm_content=DAEvOfwOrnA&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink">Click Here</a>
  
+ 
+> **Intro Data (Case Study)**: <a href="https://github.com/itsmecevi/data1o1/blob/main/data1o1.pdf">Click Here</a>
+ 
 
+> **Case Study: Business Intelligence**: <a href="https://github.com/itsmecevi/widya-bi/blob/main/Widya-BI101.pdf">Click Here</a>
+ 
 
   
 __________
