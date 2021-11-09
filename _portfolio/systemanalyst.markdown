@@ -17,6 +17,18 @@ date: 2021-11-09
 
 > **System Analyst Terminology**: <a href="https://github.com/itsmecevi/saterminology/blob/main/saterminology.pdf">Click Here</a>
  
+> **Software & Software Engineer**: <a href="">Click Here</a>
+ 
+> **Software Needs**: <a href="">Click Here</a>
+ 
+> **Step by Step System Analyst**: <a href="">Click Here</a>
+ 
+> **Methods**: <a href="">Click Here</a>
+ 
+
+ 
+ 
+ 
 > **System Analyst Rockstar**: <a href="https://www.canva.com/design/DAEvOfwOrnA/1Vx0ddwmEt8Qpqmshp9n6w/view?utm_content=DAEvOfwOrnA&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink">Click Here</a>
  
  
@@ -29,6 +41,9 @@ date: 2021-11-09
   
 __________
   
+ 
+ 1. UML
+ 2. Interactive Use Case
 <Br> 
   
 
