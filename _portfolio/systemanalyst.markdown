@@ -19,7 +19,7 @@ date: 2021-11-09
  
 > **Software & Software Engineer**: <a href="https://github.com/itsmecevi/software/blob/main/software.pdf">Click Here</a>
  
-> **X-Software Needs**: <a href="">Click Here</a>
+> **Software Needs (+exercise)**: <a href="https://github.com/itsmecevi/softwareneeds/blob/main/softwareneeds.pdf">Click Here</a>
  
 > **X-Step by Step System Analyst**: <a href="">Click Here</a>
  
@@ -39,6 +39,7 @@ __________
  
  1. UML (Unified Modeling Language) Fundamental
  2. Interactive Use Case
+ 3. Version Control Github
 <Br> 
   
 
