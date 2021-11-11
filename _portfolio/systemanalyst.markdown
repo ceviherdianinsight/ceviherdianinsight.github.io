@@ -29,6 +29,9 @@ __________
  
 > **System Analyst Rockstar**: <a href="https://www.canva.com/design/DAEvOfwOrnA/1Vx0ddwmEt8Qpqmshp9n6w/view?utm_content=DAEvOfwOrnA&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink">Click Here</a>
  
+> **Open Sources System**: <a href="https://docs.google.com/presentation/d/1t1q5gDnp0LbhZWv-CoSLeZectzD3xlDd69UftJ6IQ58/edit?usp=sharing">Click Here</a>
+  
+ 
  
 > **Intro Data (Case Study)**: <a href="https://github.com/itsmecevi/data1o1/blob/main/data1o1.pdf">Click Here</a>
  
