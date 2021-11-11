@@ -41,8 +41,10 @@ __________
 
  
  1. UML (Unified Modeling Language) Fundamental
- 2. Interactive Use Case
- 3. Version Control Github
+ 2. <a href="https://modeling-languages.com/best-uml-cheatsheets-and-reference-guides/">UML Cheat Sheet</a>
+ 
+ 2. Interactive Use Case Uni Tidar
+ 3. Version Control Github (Opsional)
 <Br> 
   
 
