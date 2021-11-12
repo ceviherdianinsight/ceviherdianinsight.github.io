@@ -35,6 +35,7 @@ __________
  
 > **Intro Data (Case Study)**: <a href="https://github.com/itsmecevi/data1o1/blob/main/data1o1.pdf">Click Here</a>
  
+> **Database & Data Warehouse**: <a href="https://itsmecevi.github.io/dwbi/">Click Here</a>
 
 > **Business Intelligence System (Case Study)**: <a href="https://github.com/itsmecevi/widya-bi/blob/main/Widya-BI101.pdf">Click Here</a>
  
