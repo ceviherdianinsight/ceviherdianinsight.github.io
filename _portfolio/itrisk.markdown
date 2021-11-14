@@ -38,7 +38,7 @@ date: 2021-11-14
  
 __________
  
-
+Brainstorming & Workshop (Tidak Ada Materi):
  
  1. Concept & Role Information Tecnology of  Sumsel Babel Bank
  
