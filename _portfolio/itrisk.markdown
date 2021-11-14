@@ -2,7 +2,7 @@
 layout: post
 title: IT Risk Management
 description: IT Assurance
-img: /img/sa.png
+img: /img/itriskcover.png
 date: 2021-11-14
 ---
 
