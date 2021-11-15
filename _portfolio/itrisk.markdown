@@ -36,15 +36,13 @@ date: 2021-11-14
  
 > **COBIT Implementation Guide**: <a href="https://github.com/itsmecevi/cobitig/blob/main/Cobit%20Implementation%20Guide.pdf">Click Here</a>
  
-> **ISO 27001 Fundamental**: <a href="">Click Here</a>
- 
-> **ISO 27001 Implementation Guide**: <a href="">Click Here</a>
-  
 > **ITIL Fundamental**: <a href="https://github.com/itsmecevi/itilfundamental/blob/main/ITIL.pdf">Click Here</a>
  
 > **ITIL Implementation Guide**: <a href="https://github.com/itsmecevi/itilig/blob/main/ITIL%20Implementation%20Guide.pdf">Click Here</a>
  
+> **ISO 27001 Fundamental**: <a href="https://github.com/itsmecevi/iso27001fundamental/blob/main/ISO%2027001.pdf">Click Here</a>
  
+> **ISO 27001 Implementation Guide**: <a href="https://github.com/itsmecevi/iso27001ig/blob/main/ISO%2027001%20Implementation%20Guide.pdf">Click Here</a>
 
 
  
