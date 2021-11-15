@@ -32,9 +32,9 @@ date: 2021-11-14
 
 > **Data & IT Governance**: <a href="https://github.com/itsmecevi/9-itdatagovernance/blob/main/9-IT%20Governance%20vs%20Data%20Governance.pdf">Click Here</a>
 
-> **COBIT Fundamental**: <a href="">Click Here</a>
+> **COBIT Fundamental**: <a href="https://github.com/itsmecevi/cobitfundamental/blob/main/Cobit.pdf">Click Here</a>
  
-> **COBIT Implementation Guide**: <a href="">Click Here</a>
+> **COBIT Implementation Guide**: <a href="https://github.com/itsmecevi/cobitig/blob/main/Cobit%20Implementation%20Guide.pdf">Click Here</a>
  
 > **ISO 27001 Fundamental**: <a href="">Click Here</a>
  
