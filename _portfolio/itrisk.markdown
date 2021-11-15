@@ -39,9 +39,11 @@ date: 2021-11-14
 > **ISO 27001 Fundamental**: <a href="">Click Here</a>
  
 > **ISO 27001 Implementation Guide**: <a href="">Click Here</a>
+  
+> **ITIL Fundamental**: <a href="">Click Here</a>
  
+> **ITIL Implementation Guide**: <a href="">Click Here</a>
  
-
  
 
 
