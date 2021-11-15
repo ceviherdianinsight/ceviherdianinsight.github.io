@@ -40,9 +40,9 @@ date: 2021-11-14
  
 > **ISO 27001 Implementation Guide**: <a href="">Click Here</a>
   
-> **ITIL Fundamental**: <a href="">Click Here</a>
+> **ITIL Fundamental**: <a href="https://github.com/itsmecevi/itilfundamental/blob/main/ITIL.pdf">Click Here</a>
  
-> **ITIL Implementation Guide**: <a href="">Click Here</a>
+> **ITIL Implementation Guide**: <a href="https://github.com/itsmecevi/itilig/blob/main/ITIL%20Implementation%20Guide.pdf">Click Here</a>
  
  
 
