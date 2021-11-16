@@ -44,8 +44,14 @@ date: 2021-11-14
  
 > **ISO 27001 Implementation Guide**: <a href="https://github.com/itsmecevi/iso27001ig/blob/main/ISO%2027001%20Implementation%20Guide.pdf">Click Here</a>
 
-
+__________
  
+> **Recap Cobit**: <a href="https://github.com/itsmecevi/recapcobit/blob/main/Recap%20Cobit.pdf">Click Here</a>
+
+> **Recap ITIL**: <a href="">Click Here</a>
+
+> **Recap ISO**: <a href="">Click Here</a>
+
 __________
  
 Brainstorming & Workshop (Tidak Ada Materi-> ISO 27001:
