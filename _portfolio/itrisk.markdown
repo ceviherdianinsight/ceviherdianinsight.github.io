@@ -52,6 +52,8 @@ __________
 
 > **Recap ISO**: <a href="https://github.com/itsmecevi/recapiso/blob/main/Recap%20ISO.pdf">Click Here</a>
  
+> **Contoh Kasus ISO**: <a href="https://github.com/itsmecevi/contohkasusiso/blob/main/Contoh%20Kasus%20ISO.pdf">Click Here</a> 
+ 
 > **Versus**: <a href="https://github.com/itsmecevi/versus/blob/main/VS.pdf">Click Here</a>
 
 
