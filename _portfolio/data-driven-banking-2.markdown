@@ -2,7 +2,7 @@
 layout: post
 title: Data-Driven-Banking (Bank of DKI)
 description: Use Case
-img: /img/data-driven-banking.jpg
+img: /img/bank.png
 date: 2021-12-13
 ---
 
@@ -24,7 +24,11 @@ date: 2021-12-13
 > **Big Data for Decision Makers**: <a href="https://github.com/itsmecevi/widya-bdfdm/blob/main/Widya-BDFDM.pdf">Click Here</a>
 
 > **Data-Driven Decision 101**: <a href="https://github.com/itsmecevi/widya-ddd/blob/main/widya-ddd.pdf">Click Here</a>
+  
+> **Data Culture Webinar**: <a href="">Click Here</a>
 
+> **Data Culture Playbook**: <a href="">Click Here</a>
+    
 > **Analytics 101**: <a href="https://github.com/itsmecevi/widya-analytics101/blob/main/Widya-Analytics101.pdf">Click Here</a>
   
 > **Artificial Intelligence 101**: <a href="https://github.com/itsmecevi/widya-ai1O1/blob/main/Widya-AI101.pdf">Click Here</a>
