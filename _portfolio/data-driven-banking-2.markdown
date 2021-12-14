@@ -30,6 +30,8 @@ date: 2021-12-13
 > **Data Culture Playbook**: <a href="https://github.com/itsmecevi/datacultureplaybook/blob/main/DataCulturePlaybookPDF_update_compressed.pdf">Click Here</a>
   
 > **Whitepaper: Data Culture => Data-Driven**: <a href="https://github.com/itsmecevi/dataculture-datadriven/blob/main/Tableau_WhitePaper_US47605621_FINAL-2_compressed.pdf">Click Here</a>
+  
+> **Agile Project Management**: <a href="https://github.com/itsmecevi/agilepm/blob/main/CFDS-AgilePM.pdf">Click Here</a>
     
 > **Analytics 101**: <a href="https://github.com/itsmecevi/widya-analytics101/blob/main/Widya-Analytics101.pdf">Click Here</a>
   
