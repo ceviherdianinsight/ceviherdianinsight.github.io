@@ -27,7 +27,9 @@ date: 2021-12-13
   
 > **Data Culture Webinar**: <a href="https://github.com/itsmecevi/dataculturewebinar/blob/main/Data%20Culture%20Playbook%20Webinar%20Slide%20Deck_compressed%20(1).pdf">Click Here</a>
 
-> **Data Culture Playbook**: <a href="">Click Here</a>
+> **Data Culture Playbook**: <a href="https://github.com/itsmecevi/datacultureplaybook/blob/main/DataCulturePlaybookPDF_update_compressed.pdf">Click Here</a>
+  
+> **Whitepaper: Data Culture => Data-Driven**: <a href="">Click Here</a>
     
 > **Analytics 101**: <a href="https://github.com/itsmecevi/widya-analytics101/blob/main/Widya-Analytics101.pdf">Click Here</a>
   
