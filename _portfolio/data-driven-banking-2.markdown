@@ -25,7 +25,7 @@ date: 2021-12-13
 
 > **Data-Driven Decision 101**: <a href="https://github.com/itsmecevi/widya-ddd/blob/main/widya-ddd.pdf">Click Here</a>
   
-> **Data Culture Webinar**: <a href="">Click Here</a>
+> **Data Culture Webinar**: <a href="https://github.com/itsmecevi/dataculturewebinar/blob/main/Data%20Culture%20Playbook%20Webinar%20Slide%20Deck_compressed%20(1).pdf">Click Here</a>
 
 > **Data Culture Playbook**: <a href="">Click Here</a>
     
