@@ -8,7 +8,7 @@ date: 2021-12-13
 
 
 
- > **Infografis**: <a href="">Click Here</a>
+ > **Infografis**: <a href="https://github.com/itsmecevi/sbg-ruhimat/blob/main/sbg-final-new.pdf">Click Here</a>
  
 
  
