@@ -15,7 +15,7 @@ date: 2021-12-13
 
 <Br>
   
-<img class="col one right" src="/img/sbg.png" style="padding:25px">
+<img class="col one right" src="/img/sbg.jpeg" style="padding:25px">
 
 <Br>
 
