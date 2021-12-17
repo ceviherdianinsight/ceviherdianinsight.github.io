@@ -24,7 +24,7 @@ I have a skill and experience for most of the data-science steps: data pre-proce
 I am a postgraduate student in Financial Services & Risk Management at HTW Berlin-University of Applied Sciences. My Specializing area in study is Advanced Data Analytics (Descriptive, Predictive, and Applied AI=Machine learning), Forecasting, and KPI (Key Performances Indicators).
 <br>
 <br>
-I'm interested in exploring the new ways or technology for better insight from data.
+I'm interested in exploring the new ways or technology for better insight from data. Feel fre to contacting me at itsmecevi@gmail.com
 <br>
 	
 	 <li>
