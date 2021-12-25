@@ -28,7 +28,7 @@ I'm interested in exploring the new ways or technology for better insight from d
 <br>
 	
 	 <li>
-    <a id="icon" href="https://itsmecevi.github.io/curriculum-vitae/" target="_blank"><i class="fa fa-file" aria-hidden="true"></i>Curriculum Vitae-Update</a>
+    <a id="icon" href="https://drive.google.com/file/d/1nED-ju_uaYbb3S0RlD2Lbkg8xXO8ejvv/view?usp=sharing" target="_blank"><i class="fa fa-file" aria-hidden="true"></i>Curriculum Vitae-Update</a>
           </li>
 	
 	 <li>
