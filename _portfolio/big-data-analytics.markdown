@@ -15,7 +15,7 @@ date: 2022-01-29
 
 > **PostTest: (Big) Data Visual Analytics**: <a href="https://forms.gle/Toa75PayN6yyCCGq9">Click Here</a>
   
-> **Medigo Consulting Challenge**: <a href="https://itsmecevi.github.io/medigo-bi/">Click Here</a>
+> **(Medigo Consulting Challenge)**: <a href="https://itsmecevi.github.io/medigo-bi/">Click Here</a>
 
  __________
   
@@ -37,34 +37,30 @@ __________
   
 <Br> 
   
-> **Introduction to Data Literacy**: <a href="">Click Here</a>
+> **Introduction to Data Literacy**: <a href="https://docs.google.com/presentation/d/1CnunRrFTgUQCkBbTwof3SDWFdX5aCNhqzbgudIUJtyU/edit?usp=sharing">Click Here</a>
   
-> **Recognizing Well-Structured Data**: <a href="">Click Here</a>
+> **Recognizing Well-Structured Data**: <a href="https://docs.google.com/presentation/d/1-uZYlivcCYwGEviVw5z2cLOw67f4Yc1TF6mDgomlJDc/edit?usp=sharing">Click Here</a>
    
-> **Exploring Variables & Field Types**: <a href="">Click Here</a>
+> **Exploring Variables & Field Types**: <a href="https://docs.google.com/presentation/d/1prMGCqnAZGYRyFcgXWfwPC348j8X5FH-uunL2RQjOjM/edit?usp=sharing">Click Here</a>
 
 
-> **Exploring Aggregation & Granularity**: <a href="">Click Here</a>
+> **Exploring Aggregation & Granularity**: <a href="https://docs.google.com/presentation/d/1myMR-6g2183vVT2V3O5CTzomeuH7CmzMPZPSeKbxphk/edit?usp=sharing">Click Here</a>
   
+<!--
 > **Understanding Distributions**: <a href="">Click Here</a>
-  
   
 > **Understanding Variation for Wise Comparisons**: <a href="">Click Here</a>
   
 > **Using Correlation & Regression to Examine Relationships**: <a href="">Click Here</a>
-  
+-->
 __________
   
 <Br> 
     
 > **Analytics 101**: <a href="https://github.com/itsmecevi/widya-analytics101/blob/main/Widya-Analytics101.pdf">Click Here</a>
   
- 
-
 > **Artificial Intelligence 101**: <a href="https://github.com/itsmecevi/widya-ai1O1/blob/main/Widya-AI101.pdf">Click Here</a>
 
-
- 
 > **Creative Thinking**: <a href="https://github.com/itsmecevi/widya-creativethinking/blob/main/Widya-CreativeThinking.pdf">Click Here</a>
    
 > **Data-Driven Banking**: <a href="https://github.com/itsmecevi/data-driven-banking/blob/main/Data-Driven%20Banking.pdf">Click Here</a>
