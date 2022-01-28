@@ -11,9 +11,9 @@ date: 2022-01-29
 
 <Br>
 
-> **PreTest: BI Fundamental**: <a href="https://forms.gle/Mt2y1e8XA3ygM2j1A">Click Here</a>
+> **PreTest: (Big) Data Analytics**: <a href="https://forms.gle/FmymBKQXYcymwDYu6">Click Here</a>
 
-> **PostTest: BI Fundamental**: <a href="https://forms.gle/Toa75PayN6yyCCGq9">Click Here</a>
+> **PostTest: (Big) Data Visual Analytics**: <a href="https://forms.gle/Toa75PayN6yyCCGq9">Click Here</a>
   
 > **Medigo Consulting Challenge**: <a href="https://itsmecevi.github.io/medigo-bi/">Click Here</a>
 
