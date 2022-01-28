@@ -27,7 +27,7 @@ date: 2022-01-29
   
 > **Data Culture Webinar**: <a href="https://github.com/itsmecevi/dataculturewebinar/blob/main/Data%20Culture%20Playbook%20Webinar%20Slide%20Deck_compressed%20(1).pdf">Click Here</a>
 
-> **Data Culture Playbook**: <a href="https://github.com/itsmecevi/datacultureplaybook/blob/main/DataCulturePlaybookPDF_update_compressed.pdf">Click Here</a>
+> **(Data Culture Playbook)**: <a href="https://github.com/itsmecevi/datacultureplaybook/blob/main/DataCulturePlaybookPDF_update_compressed.pdf">Click Here</a>
   
 > **Whitepaper: Data Culture => Data-Driven**: <a href="https://github.com/itsmecevi/dataculture-datadriven/blob/main/Tableau_WhitePaper_US47605621_FINAL-2_compressed.pdf">Click Here</a>
   
