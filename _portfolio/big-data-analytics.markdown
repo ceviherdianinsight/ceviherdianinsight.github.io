@@ -32,6 +32,30 @@ date: 2022-01-29
 > **Whitepaper: Data Culture => Data-Driven**: <a href="https://github.com/itsmecevi/dataculture-datadriven/blob/main/Tableau_WhitePaper_US47605621_FINAL-2_compressed.pdf">Click Here</a>
   
 > **Agile Project Management**: <a href="https://github.com/itsmecevi/agilepm/blob/main/CFDS-AgilePM.pdf">Click Here</a>
+  
+__________
+  
+<Br> 
+  
+> **Introduction to Data Literacy**: <a href="">Click Here</a>
+  
+> **Recognizing Well-Structured Data**: <a href="">Click Here</a>
+   
+> **Exploring Variables & Field Types**: <a href="">Click Here</a>
+
+
+> **Exploring Aggregation & Granularity**: <a href="">Click Here</a>
+  
+> **Understanding Distributions**: <a href="">Click Here</a>
+  
+  
+> **Understanding Variation for Wise Comparisons**: <a href="">Click Here</a>
+  
+> **Using Correlation & Regression to Examine Relationships**: <a href="">Click Here</a>
+  
+__________
+  
+<Br> 
     
 > **Analytics 101**: <a href="https://github.com/itsmecevi/widya-analytics101/blob/main/Widya-Analytics101.pdf">Click Here</a>
   
