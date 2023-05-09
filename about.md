@@ -34,6 +34,9 @@ I'm interested in exploring the new ways or technology for better insight from d
 	 <li>
             <a id="icon" href="https://github.com/itsmecevi" target="_blank"><i class="fa fa-github fa-fw fa-2x"></i></a>
           </li>
+	 <li>
+	<a id="icon" href="https://www.linkedin.com/in/cevi-herdian-ba83a9a2/" target="_blank"><i class="fa fa-linkedin fa-fw fa-2x"></i></a>
+	</li>
          <!-- <li>
             <a id="icon" href="https://www.linkedin.com/in/cevi-herdian-ba83a9a2/" target="_blank"><i class="fa fa-linkedin fa-fw fa-2x"></i></a>
           </li> -->
