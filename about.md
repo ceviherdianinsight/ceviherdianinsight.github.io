@@ -28,7 +28,7 @@ I'm interested in exploring the new ways or technology for better insight from d
 <br>
 	
 	 <li>
-    <a id="icon" href="https://drive.google.com/file/d/1g0leMhKmCgjPA_Dxp3eXNZXMTY1iEN4E/view?usp=sharing" target="_blank"><i class="fa fa-file" aria-hidden="true"></i>Curriculum Vitae-Update</a>
+    <a id="icon" href="https://drive.google.com/file/d/1fwpV1H9A5UFeU30xL0h-DgIudxanUAdz/view?usp=sharing" target="_blank"><i class="fa fa-file" aria-hidden="true"></i>Curriculum Vitae-Update</a>
           </li>
 	
 	 <li>
