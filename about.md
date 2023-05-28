@@ -16,17 +16,19 @@ To ensure making an impact with data. Using predictive modeling (FORECASTING), O
 	=>IRI: Insight, Recommendation, and Impact. 
 <br>
 	
-<!--Presently I learn Data Science from scratch from Deutsche Bahn Headquarters Data Science team as intern.-->
+
 <br>
 I have the skill and experience for most of the data-science steps and tools: data pre-processing (data cleaning), application of analytical methods, data visualization, big data storage, and results in communication. I’m great at communication, I’m a very quick learner and I take the quality of my work extremely seriously.
-
 <br>
 <br>
 I am a postgraduate student in Financial Services & Risk Management at HTW Berlin-University of Applied Sciences. My Specializing area in study is Advanced Data Analytics (Descriptive, Predictive, and Applied AI=Machine learning), Forecasting, and KPI (Key Performances Indicators).
 <br>
+<br>
 The computing and processing data technology capacity of computers hits double figures every 18 months. So, lifelong learning is a must!
 <br>
+<br>
 I'm interested in exploring the new ways or technology for better insight from data. Feel fre to contacting me at itsmecevi@gmail.com
+<br>
 <br>
 	
 	 <li>
