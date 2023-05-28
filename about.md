@@ -10,19 +10,21 @@ permalink: /about/
 Hello, my name is Cevi Herdian. I'm <span class="changing"></span> Enthusiast
 <br>
 <br>
-Practiced Data-Driven Strategist with experience in extraction,
-transformation, loaded, statistical interpreting and visualizing various types of dataset.
-Focusing on KPI Dashboard (Key Performance Indicator) and Predictive Analytics. 
+Data-Driven minded with experience collaborating with cross-functional teams. 
+To ensure making an impact with data. Using predictive modeling (FORECASTING), Operation Research, Machine Learning (AI) and insight reporting to boost business efficiency, strategic goals, and innovation.
+	
+	=>IRI: Insight, Recommendation, and Impact. 
 <br>
 	
 <!--Presently I learn Data Science from scratch from Deutsche Bahn Headquarters Data Science team as intern.-->
 <br>
-I have a skill and experience for most of the data-science steps: data pre-processing (data cleaning), application of statistical methods, data visualization and results communication.
+I have the skill and experience for most of the data-science steps and tools: data pre-processing (data cleaning), application of analytical methods, data visualization, big data storage, and results in communication. I’m great at communication, I’m a very quick learner and I take the quality of my work extremely seriously.
 
 <br>
 <br>
 I am a postgraduate student in Financial Services & Risk Management at HTW Berlin-University of Applied Sciences. My Specializing area in study is Advanced Data Analytics (Descriptive, Predictive, and Applied AI=Machine learning), Forecasting, and KPI (Key Performances Indicators).
 <br>
+The computing and processing data technology capacity of computers hits double figures every 18 months. So, lifelong learning is a must!
 <br>
 I'm interested in exploring the new ways or technology for better insight from data. Feel fre to contacting me at itsmecevi@gmail.com
 <br>
