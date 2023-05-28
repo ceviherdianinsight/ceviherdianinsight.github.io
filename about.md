@@ -19,12 +19,11 @@ To ensure making an impact with data. Using predictive modeling (FORECASTING), O
 I have the skill and experience for most of the data-science steps and tools: data pre-processing (data cleaning), application of analytical methods, data visualization, big data storage, and results in communication. I’m great at communication, I’m a very quick learner and I take the quality of my work extremely seriously.
 <br>
 <br>
-I am a postgraduate student in Financial Services & Risk Management at HTW Berlin-University of Applied Sciences. My Specializing area in study is Advanced Data Analytics (Descriptive, Predictive, and Applied AI=Machine learning), Forecasting, and KPI (Key Performances Indicators).
+I am a postgraduate student in Financial Services & Risk Management at HTW Berlin-University of Applied Sciences. My Specializing area in study is Advanced Data Analytics (Descriptive, Predictive, Prescriptive and Applied AI=Machine learning).
 <br>
 <br>
 I'm interested in exploring the new ways or technology for better insight from data. Feel fre to contacting me at itsmecevi@gmail.com
 <br>
-	
 	 <li>
     <a id="icon" href="https://drive.google.com/file/d/1fwpV1H9A5UFeU30xL0h-DgIudxanUAdz/view?usp=sharing" target="_blank"><i class="fa fa-file" aria-hidden="true"></i>Curriculum Vitae-May 2023</a>
           </li>
