@@ -27,8 +27,7 @@ I am a postgraduate student in Financial Services & Risk Management at HTW Berli
           </li>
 	
 	<li>
-    <i class="fa fa-refresh fa-spin fa-3x fa-fw"></i>
-<span class="sr-only">[Work Portfolio](https://itsmecevi.github.io/about/)</span>
+    <a id="icon" href="https://drive.google.com/file/d/1fwpV1H9A5UFeU30xL0h-DgIudxanUAdz/view?usp=sharing" target="_blank"><i class="fa fa-refresh fa-spin fa-3x fa-fw"></i>Curriculum Vitae-May 2023</a>
           </li>
 	
 	 <li>
