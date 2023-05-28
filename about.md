@@ -105,7 +105,7 @@ Tools:
 <script>
   $(function(){
       $(".changing").typed({
-        strings: ["Data-Driven"" Artificial Intelligence", "Machine Learning","Data Science"],
+        strings: ["Data-Driven"," Artificial Intelligence", "Machine Learning","Data Science"],
         typeSpeed: 50,
 				backDelay: 2000,
 				showCursor: false,
