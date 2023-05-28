@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-<img class="col one right" src="/img/cevi-min.JPG" style="padding:25px">
+<img class="col one right" src="/img/ceviyellow.JPG" style="padding:25px">
 
 <div>
 Hello, my name is Cevi Herdian. I'm <span class="changing"></span> Enthusiast
@@ -12,7 +12,8 @@ Hello, my name is Cevi Herdian. I'm <span class="changing"></span> Enthusiast
 <br>
 Data-Driven minded with experience collaborating with cross-functional teams. 
 To ensure making an impact with data. Using predictive modeling (FORECASTING), Operation Research, Machine Learning (AI) and insight reporting to boost business efficiency, strategic goals, and innovation.
-	
+<br>
+<br>
 	=>IRI: Insight, Recommendation, and Impact. 
 <br>
 	
@@ -24,7 +25,6 @@ I have the skill and experience for most of the data-science steps and tools: da
 I am a postgraduate student in Financial Services & Risk Management at HTW Berlin-University of Applied Sciences. My Specializing area in study is Advanced Data Analytics (Descriptive, Predictive, and Applied AI=Machine learning), Forecasting, and KPI (Key Performances Indicators).
 <br>
 <br>
-The computing and processing data technology capacity of computers hits double figures every 18 months. So, lifelong learning is a must!
 <br>
 <br>
 I'm interested in exploring the new ways or technology for better insight from data. Feel fre to contacting me at itsmecevi@gmail.com
