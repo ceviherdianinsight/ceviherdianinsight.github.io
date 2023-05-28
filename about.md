@@ -22,10 +22,8 @@ I have the skill and experience for most of the data-science steps and tools: da
 I am a postgraduate student in Financial Services & Risk Management at HTW Berlin-University of Applied Sciences. My Specializing area in study is Advanced Data Analytics (Descriptive, Predictive, Prescriptive and Applied AI=Machine learning). I'm interested in exploring the new ways or technology for better insight from data. Feel fre to contacting me at itsmecevi@gmail.com
 <br>
 <br>
-<br>
-<br>
 	 <li>
-    <a id="icon" href="https://drive.google.com/file/d/1fwpV1H9A5UFeU30xL0h-DgIudxanUAdz/view?usp=sharing" target="_blank"><i class="fa fa-file" aria-hidden="true"></i>Curriculum Vitae-May 2023</a>
+    <a id="icon" href="https://drive.google.com/file/d/1fwpV1H9A5UFeU30xL0h-DgIudxanUAdz/view?usp=sharing" target="_blank"><i class="fa fa-file" aria-hidden="true"></i> Curriculum Vitae-May 2023</a>
           </li>
 	
 	 <li>
