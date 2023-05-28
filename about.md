@@ -23,7 +23,7 @@ I am a postgraduate student in Financial Services & Risk Management at HTW Berli
 <br>
 <br>
 	<li>
-    <a id="icon" href="https://drive.google.com/file/d/1fwpV1H9A5UFeU30xL0h-DgIudxanUAdz/view?usp=sharing" target="_blank"><i class="fa fa-refresh fa-spin fa-3x fa-fw"></i>Work Portfolio</a>
+    <a id="icon" href="https://itsmecevi.github.io/work_portofolio/" target="_blank"><i class="fa fa-refresh fa-spin fa-3x fa-fw"></i>Work Portfolio</a>
           </li>
 	
  	<li>
