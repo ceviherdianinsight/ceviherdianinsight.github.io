@@ -31,10 +31,10 @@ I am a postgraduate student in Financial Services & Risk Management at HTW Berli
           </li>	
 	
 	 <li>
-            <a id="icon" href="https://github.com/itsmecevi" target="_blank"><i class="fa fa-github fa-fw fa-2x"></i></a>
+            <a id="icon" href="https://github.com/itsmecevi" target="_blank"><i class="fa fa-github fa-fw fa-2x"></i> Github</a>
           </li>
 	 <li>
-	<a id="icon" href="https://www.linkedin.com/in/cevi-herdian-ba83a9a2/" target="_blank"><i class="fa fa-linkedin fa-fw fa-2x"></i></a>
+	<a id="icon" href="https://www.linkedin.com/in/cevi-herdian-ba83a9a2/" target="_blank"><i class="fa fa-linkedin fa-fw fa-2x"></i> Linkedin</a>
 	</li>
          <!-- <li>
             <a id="icon" href="https://www.linkedin.com/in/cevi-herdian-ba83a9a2/" target="_blank"><i class="fa fa-linkedin fa-fw fa-2x"></i></a>
