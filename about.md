@@ -30,7 +30,7 @@ I'm interested in exploring the new ways or technology for better insight from d
 <br>
 	
 	 <li>
-    <a id="icon" href="https://drive.google.com/file/d/1fwpV1H9A5UFeU30xL0h-DgIudxanUAdz/view?usp=sharing" target="_blank"><i class="fa fa-file" aria-hidden="true"></i>Curriculum Vitae-Update</a>
+    <a id="icon" href="https://drive.google.com/file/d/1fwpV1H9A5UFeU30xL0h-DgIudxanUAdz/view?usp=sharing" target="_blank"><i class="fa fa-file" aria-hidden="true"></i>Curriculum Vitae-May 2023</a>
           </li>
 	
 	 <li>
@@ -109,7 +109,7 @@ Tools:
 <script>
   $(function(){
       $(".changing").typed({
-        strings: ["Data Analyst", "Visual Analytics", "Business Intelligence", " Artificial Intelligence", "Machine Learning","Data Science"],
+        strings: ["Data-Driven"" Artificial Intelligence", "Machine Learning","Data Science"],
         typeSpeed: 50,
 				backDelay: 2000,
 				showCursor: false,
