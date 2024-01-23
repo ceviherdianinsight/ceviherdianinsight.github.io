@@ -16,9 +16,11 @@ A seasoned Senior Data Scientist with a strong background in developing and depl
 I am a postgraduate student in Financial Services & Risk Management at HTW Berlin-University of Applied Sciences. My Specializing area in study is Advanced Data Analytics (Descriptive, Predictive, Prescriptive and Applied AI=Machine learning). I'm interested in exploring the new ways or technology for better insight from data.
 <br>
 <br>
-The computing and processing data technology capacity of computers hits double figures every 18 months. So, lifelong learning is a must!Feel fre to contacting me at itsmecevi@gmail.com
+The computing and processing data technology capacity of computers hits double figures every 18 months. So, lifelong learning is a must! Feel fre to contacting me at itsmecevi@gmail.com
 <br>
 <br>
+
+ <!--
 	<li>
     <a id="icon" href="https://itsmecevi.github.io/work_portofolio/" target="_blank"><i class="fa fa-refresh fa-spin fa-3x fa-fw"></i>Work Portfolio</a>
           </li>
@@ -41,6 +43,7 @@ The computing and processing data technology capacity of computers hits double f
            <!-- <li>
             <a id="icon" href="https://www.xing.com/profile/Cevi_Herdian/cv" target="_blank"><i class="fa fa-xing fa-fw fa-2x"></i></a>
           </li> -->
+-->
 <!--
 <br>
 <br>
