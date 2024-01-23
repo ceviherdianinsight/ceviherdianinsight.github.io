@@ -30,9 +30,16 @@ The computing and processing data technology capacity of computers hits double f
 <br>
 ⭕ <a href="https://www.example.com">AI/ML Demo</a>
 <br>
-⭕ [Test 5]()
+⭕ <a href="https://www.example.com">B2B Workshop</a>
 <br>
-⭕ [Test 6]()
+⭕ <a href="https://www.example.com">Lecturer</a>
+<br>
+⭕ <a href="https://www.example.com">Curriculum Vitae</a>
+<br>
+⭕ <a href="https://www.example.com">Github</a>
+<br>
+⭕ <a href="https://www.example.com">Linkedin</a>
+
 
  <!--
 	<li>
