@@ -33,6 +33,7 @@ The computing and processing data technology capacity of computers hits double f
 <br>
 ✅ <a href="https://www.example.com">Github</a>
 <br>
+✅ <a href="https://www.example.com">Curriculum Vitae</a>
 
 
  <!--
