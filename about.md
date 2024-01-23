@@ -10,6 +10,9 @@ permalink: /about/
 Hello, my name is Cevi Herdian. I'm <span class="changing"></span> Enthusiast
 <details>
 <summary style="color:blue;">Hello, my name is Cevi Herdian. I'm an Enthusiast</summary>
+<details open style="color:blue;">
+<summary>Hello, my name is Cevi Herdian. I'm an Enthusiast</summary>
+</details>
 </details>
 <br>
 <br>
