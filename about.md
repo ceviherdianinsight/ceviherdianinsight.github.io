@@ -23,9 +23,9 @@ The computing and processing data technology capacity of computers hits double f
 
 
 <br>
-⭕ <a href="https://www.example.com">AI/ML Demo</a>
+🤖 <a href="https://www.example.com">AI/ML Demo: Engage with real-time AI/ML models through our interactive and user-friendly demonstrations.</a>
 <br>
-⭕ <a href="https://www.example.com">B2B Workshop</a>
+⭕ <a href="https://www.example.com">B2B Workshop: Transform your company with my B2B Data Science Workshop – Uncover the power of data for innovation and actionable insights</a>
 <br>
 ⭕ <a href="https://www.example.com">Lecturer</a>
 <br>
