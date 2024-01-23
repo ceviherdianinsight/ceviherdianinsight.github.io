@@ -10,13 +10,12 @@ permalink: /about/
 Hello, my name is Cevi Herdian. I'm <span class="changing"></span> Enthusiast
 <br>
 <br>
-Data-Driven minded with experience collaborating with cross-functional teams. 
-To ensure making an impact with data. Using predictive modeling (FORECASTING), Operation Research, Machine Learning (AI) and insight reporting to boost business efficiency, strategic goals, and innovation.
+A seasoned Senior Data Scientist with a strong background in developing and deploying cutting-edge machine-learning models and solutions (MLOps:=Machine Learning Operations). With a passion for data-driven problem-solving and a track record of successful projects in different industries, I excel in bridging the gap between data science and engineering to deliver tangible business value.
 <br>
 	=>IRI: Insight, Recommendation, and Impact. 
 <br>
 <br>
-I have the skill and experience for most of the data-science steps and tools: data pre-processing (data cleaning), application of analytical methods, data visualization, big data storage, and results in communication. I’m great at communication, I’m a very quick learner and I take the quality of my work extremely seriously.
+The computing and processing data technology capacity of computers hits double figures every 18 months. So, lifelong learning is a must!
 <br>
 <br>
 I am a postgraduate student in Financial Services & Risk Management at HTW Berlin-University of Applied Sciences. My Specializing area in study is Advanced Data Analytics (Descriptive, Predictive, Prescriptive and Applied AI=Machine learning). I'm interested in exploring the new ways or technology for better insight from data. Feel fre to contacting me at itsmecevi@gmail.com
