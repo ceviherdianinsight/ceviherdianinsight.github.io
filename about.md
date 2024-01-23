@@ -28,7 +28,7 @@ The computing and processing data technology capacity of computers hits double f
 
 
 <br>
-⭕ [AI/ML Demo](google.com)
+⭕ <a href="https://www.example.com">AI/ML Demo</a>
 <br>
 ⭕ [Test 5]()
 <br>
