@@ -20,6 +20,14 @@ The computing and processing data technology capacity of computers hits double f
 <br>
 <br>
 
+
+✅ Test
+✅ Test 2
+✅ Test 3
+✅ Test 4
+✅ Test 5
+✅ Test 6
+
  <!--
 	<li>
     <a id="icon" href="https://itsmecevi.github.io/work_portofolio/" target="_blank"><i class="fa fa-refresh fa-spin fa-3x fa-fw"></i>Work Portfolio</a>
@@ -44,6 +52,7 @@ The computing and processing data technology capacity of computers hits double f
             <a id="icon" href="https://www.xing.com/profile/Cevi_Herdian/cv" target="_blank"><i class="fa fa-xing fa-fw fa-2x"></i></a>
           </li> 
 -->
+
 <!--
 <br>
 <br>
