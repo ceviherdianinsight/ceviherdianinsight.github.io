@@ -42,7 +42,7 @@ The computing and processing data technology capacity of computers hits double f
           </li> -->
            <!-- <li>
             <a id="icon" href="https://www.xing.com/profile/Cevi_Herdian/cv" target="_blank"><i class="fa fa-xing fa-fw fa-2x"></i></a>
-          </li> -->
+          </li> 
 -->
 <!--
 <br>
