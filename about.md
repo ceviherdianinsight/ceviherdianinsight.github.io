@@ -32,6 +32,7 @@ The computing and processing data technology capacity of computers hits double f
 🧑‍🏫 <a href="https://www.example.com">Lecturer (Part-Time Online):</a> Unveil profound wisdom through the mastery of teaching.
 <br>
 ____
+
 ✅ <a href="https://www.example.com">Github</a>
 <br>
 ✅ <a href="https://www.example.com">Curriculum Vitae</a>
