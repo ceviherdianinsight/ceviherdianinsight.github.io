@@ -8,12 +8,6 @@ permalink: /about/
 
 <div>
 <b>Hello, my name is Cevi Herdian. I'm <span class="changing"></span> Enthusiast<b>
-<details>
-<summary style="color:blue;">Hello, my name is Cevi Herdian. I'm an Enthusiast</summary>
-<details open style="color:blue;">
-<summary>Hello, my name is Cevi Herdian. I'm an Enthusiast</summary>
-</details>
-</details>
 <br>
 <br>
 A seasoned Senior Data Scientist with a strong background in developing and deploying cutting-edge machine-learning models and solutions (MLOps:=Machine Learning Operations). With a passion for data-driven problem-solving and a track record of successful projects in different industries, I excel in bridging the gap between data science and engineering to deliver tangible business value.
