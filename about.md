@@ -12,8 +12,6 @@ Hello, my name is Cevi Herdian. I'm <span class="changing"></span> Enthusiast
 <br>
 A seasoned Senior Data Scientist with a strong background in developing and deploying cutting-edge machine-learning models and solutions (MLOps:=Machine Learning Operations). With a passion for data-driven problem-solving and a track record of successful projects in different industries, I excel in bridging the gap between data science and engineering to deliver tangible business value.
 <br>
-	=>IRI: Insight, Recommendation, and Impact. 
-<br>
 <br>
 The computing and processing data technology capacity of computers hits double figures every 18 months. So, lifelong learning is a must!
 <br>
