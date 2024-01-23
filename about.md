@@ -25,11 +25,13 @@ The computing and processing data technology capacity of computers hits double f
 <br>
 🤖 <a href="https://www.example.com">AI/ML Demo:</a> Engage with real-time AI / ML models through my interactive and user-friendly demonstrations.
 <br>
-📚 <a href="https://www.example.com">Workshop:</a> Transform your company with my B2B Workshop – Uncover the power of data for innovation and actionable insights.
+🚀 <a href="https://www.example.com">Workshop:</a> Transform your company with my B2B Workshop – Uncover the power of data for innovation and actionable insights.
 <br>
 🔬 <a href="https://www.example.com">Research:</a> Dynamically blending professional expertise with a strong academic foundation.
 <br>
 🧑‍🏫 <a href="https://www.example.com">Lecturer (Part-Time Online):</a> Unveil profound wisdom through the mastery of teaching.
+<br>
+📚 <a href="https://www.example.com">Certified:</a> Lifelong learning!
 <br>
 ____
 <br>
