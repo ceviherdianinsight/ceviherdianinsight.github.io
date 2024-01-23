@@ -108,7 +108,7 @@ Tools:
 <script>
   $(function(){
       $(".changing").typed({
-        strings: ["Data-Driven"," Artificial Intelligence", "Machine Learning","Data Science"],
+        strings: ["BI"," Data Science", "AI/ML","Data Engineering"],
         typeSpeed: 50,
 				backDelay: 2000,
 				showCursor: false,
