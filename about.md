@@ -27,9 +27,9 @@ The computing and processing data technology capacity of computers hits double f
 <br>
 📚 <a href="https://www.example.com">Workshop:</a> Transform your company with my B2B VVIP Workshop–Uncover the power of data for innovation and actionable insights.
 <br>
-🧑‍🏫 <a href="https://www.example.com">Lecturer:</a> 
+🔬 <a href="https://www.example.com">Research:</a> Dynamically blending professional expertise with a strong academic foundation.
 <br>
-⭕ <a href="https://www.example.com">Research:</a> Dynamically blending professional expertise with a strong academic foundation.
+🧑‍🏫 <a href="https://www.example.com">Lecturer:</a> Empowering students through classroom sharing for limitless accomplishments.
 <br>
 ⭕ <a href="https://www.example.com">Curriculum Vitae</a>
 <br>
