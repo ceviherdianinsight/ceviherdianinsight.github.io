@@ -29,7 +29,7 @@ The computing and processing data technology capacity of computers hits double f
 <br>
 🔬 <a href="https://www.example.com">Research:</a> Dynamically blending professional expertise with a strong academic foundation.
 <br>
-🧑‍🏫 <a href="https://www.example.com">Lecturer (Part-Time Online):</a> Unveil profound wisdom through the mastery of teaching.
+🧑‍🏫 <a href="https://www.example.com">Lecturer (Asynchronus):</a> Unveil profound wisdom through the mastery of teaching.
 <br>
 📚 <a href="https://itsmecevi.github.io/certification/">Certification:</a> Lifelong learning is a must!
 <br>
