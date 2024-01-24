@@ -23,22 +23,22 @@ The computing and processing data technology capacity of computers hits double f
 
 
 <br>
-🤖 AI / ML Demo: <a href="https://www.example.com">Link🔗</a>
+🤖 AI / ML Demo: <a href="https://itsmecevi.streamlit.app/">Link🔗</a>
 <br>
-🚀 B2B Workshop: <a href="https://www.example.com">Link🔗</a>
+🚀 B2B Workshop-X: <a href="https://www.example.com">Link🔗</a>
 <br>
 📝 Academic Publication: <a href="https://scholar.google.com/citations?user=_Y2h-gYAAAAJ&hl=en">Link🔗</a>
 <br>
 📚 Certification: <a href="https://itsmecevi.github.io/certification/">Link🔗</a>
 <br>
-💬 Presentation: <a href="">Link🔗</a>
+💬 Presentation-X: <a href="">Link🔗</a>
 <br>
 
 ____
 <br>
 ✅ <a href="https://github.com/itsmecevi/">Github</a>
 <br>
-✅ <a href="https://www.example.com">Curriculum Vitae</a>
+✅ <a href="https://www.example.com">Curriculum Vitae-X</a>
 
  <!--
 	<li>
