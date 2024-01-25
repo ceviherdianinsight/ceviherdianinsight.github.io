@@ -29,8 +29,8 @@ The computing and processing data technology capacity of computers hits double f
 <br>
 📝 Academic Publication: <a href="https://scholar.google.com/citations?user=_Y2h-gYAAAAJ&hl=en">Link🔗</a>
 <br>
-📚 Certification: <a href="https://itsmecevi.github.io/certification/">Link🔗</a>
-<br>
+ <!--📚 Certification: <a href="https://itsmecevi.github.io/certification/">Link🔗</a>
+<br>-->
 
 
 ____
