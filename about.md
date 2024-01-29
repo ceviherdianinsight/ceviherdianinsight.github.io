@@ -37,7 +37,7 @@ ____
 <br>
 ✅ <a href="https://github.com/itsmecevi/">Github</a>
 <br>
-✅ <a href="https://www.example.com">Curriculum Vitae-X</a>
+<!--✅ <a href="https://www.example.com">Curriculum Vitae-X</a>-->
 
  <!--
 	<li>
