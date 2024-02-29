@@ -37,6 +37,7 @@ ____
 <br>
 ✅ <a href="https://github.com/itsmecevi/">Github</a>
 <br>
+✅ <a href="https://www.kaggle.com/itsmecevi">Kaggle</a>
 <!--✅ <a href="https://www.example.com">Curriculum Vitae-X</a>-->
 
  <!--
