@@ -11,7 +11,7 @@ Hello, my name is Cevi Herdian. I'm <span class="changing"></span> Enthusiast
 <div>
 <br>
 <br>
-A seasoned Senior Data Scientist with a strong background in developing and deploying cutting-edge machine-learning models and solutions (MLOps:=Machine Learning Operations). With a passion for data-driven problem-solving and a track record of successful projects in different industries, I excel in bridging the gap between data science and engineering to deliver tangible business value.
+A seasoned Data Scientist with a strong background in developing and deploying cutting-edge machine-learning models and solutions (MLOps:=Machine Learning Operations). With a passion for data-driven problem-solving and a track record of successful projects in different industries, I excel in bridging the gap between data science and engineering to deliver tangible business value.
 <br>
 <br>
 <!--I am a postgraduate student in Financial Services & Risk Management at HTW Berlin-University of Applied Sciences. My Specializing area in study is Advanced Data Analytics (Descriptive, Predictive, Prescriptive and Applied AI=Machine learning). I'm interested in exploring the new ways or technology for better insight from data.-->
@@ -23,12 +23,12 @@ The computing and processing data technology capacity of computers hits double f
 
 
 <br>
-🤖 AI / ML Demo: <a href="https://itsmecevi.streamlit.app/">Link🔗</a>
-<br>
+<!--🤖 AI / ML Demo: <a href="https://itsmecevi.streamlit.app/">Link🔗</a>
+<br>-->
 🤝 B2B Workshop: <a href="https://itsmecevi.github.io/workshop/">Link🔗</a>
 <br>
-📝 Academic Publication: <a href="https://scholar.google.com/citations?user=_Y2h-gYAAAAJ&hl=en">Link🔗</a>
-<br>
+<!--📝 Academic Publication: <a href="https://scholar.google.com/citations?user=_Y2h-gYAAAAJ&hl=en">Link🔗</a>
+<br>-->
  <!--📚 Certification: <a href="https://itsmecevi.github.io/certification/">Link🔗</a>
 <br>-->
 
