@@ -28,7 +28,8 @@ The computing and processing data technology capacity of computers hits double f
 🏢 Gertaone Project B2B Workshop: <a href="https://itsmecevi.github.io/workshop/">Link🔗</a>
 <br>
 🏫 Republic of Data Science P2P Mentoring (Soon): 
-
+<br>
+🤖 Reversal Research ML Modeling and Deployment (Soon): 
 <br>
 <!--📝 Academic Publication: <a href="https://scholar.google.com/citations?user=_Y2h-gYAAAAJ&hl=en">Link🔗</a>
 <br>-->
