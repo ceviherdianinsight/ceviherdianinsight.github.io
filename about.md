@@ -29,7 +29,7 @@ The computing and processing data technology capacity of computers hits double f
 <br>
 🏫 Republic of Data Science P2P Mentoring (Soon): 
 <br>
-🤖 Reversal Research ML Modeling and Deployment (Soon): 
+🤖 Reversal Research AI/ML Modeling and Deployment (Soon): 
 <br>
 <!--📝 Academic Publication: <a href="https://scholar.google.com/citations?user=_Y2h-gYAAAAJ&hl=en">Link🔗</a>
 <br>-->
