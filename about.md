@@ -27,8 +27,11 @@ The computing and processing data technology capacity of computers hits double f
 <br>-->
 🏢 Gertaone Project B2B Workshop: <a href="https://itsmecevi.github.io/gertaoneproject/">Link🔗</a>
 <br>
-🏫 Republic of Data Science P2P Mentoring (Soon): 
+🔬 Cevi Herdian Insight Research: <a href="https://scholar.google.com/citations?user=_Y2h-gYAAAAJ&hl=en">Link🔗</a>
 <br>
+<!--<br>
+🏫 Republic of Data Science P2P Mentoring (Soon): 
+<br>-->
 <!--🤖 Reversal Research AI/ML Modeling and Deployment (Soon): 
 <br>-->
 <!--📝 Academic Publication: <a href="https://scholar.google.com/citations?user=_Y2h-gYAAAAJ&hl=en">Link🔗</a>
@@ -39,9 +42,9 @@ The computing and processing data technology capacity of computers hits double f
 
 ____
 <br>
-✅ <a href="https://github.com/itsmecevi/">Github</a>
-<br>
 ✅ <a href="https://www.kaggle.com/itsmecevi">Kaggle</a>
+<br>
+✅ <a href="https://github.com/itsmecevi/">Github</a>
 <!--✅ <a href="https://www.example.com">Curriculum Vitae-X</a>-->
 
  <!--
