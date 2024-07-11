@@ -19,7 +19,7 @@ A seasoned Data Scientist with a strong background in developing and deploying c
 <!--I am a postgraduate student in Financial Services & Risk Management at HTW Berlin-University of Applied Sciences. My Specializing area in study is Advanced Data Analytics (Descriptive, Predictive, Prescriptive and Applied AI=Machine learning). I'm interested in exploring the new ways or technology for better insight from data.-->
 <br>
 <br>
-The computing and processing data technology capacity of computers hits double figures every 18 months. So, lifelong learning is a must! Feel fre to contacting me at itsmecevi@gmail.com
+The computing and processing data technology capacity of computers hits double figures every 18 months. So, lifelong learning is a must! 
 <br>
 <br>
 
@@ -29,9 +29,9 @@ The computing and processing data technology capacity of computers hits double f
 <br>-->
 <!--🚢 Senior Data Scientist Innovez One Singapore: <a href="https://www.innovez-one.com/">Link🔗</a>
 <br>-->
-🏢 Gertaone Project B2B Workshop: <a href="https://itsmecevi.github.io/gertaoneproject/">Link🔗</a>
+🏢 B2B Workshop: <a href="https://itsmecevi.github.io/gertaoneproject/">Link🔗</a>
 <br>
-📈 Cevi Herdian Insight Research: <a href="https://scholar.google.com/citations?user=_Y2h-gYAAAAJ&hl=en">Link🔗</a>
+📈 Data-Driven Research: <a href="https://scholar.google.com/citations?user=_Y2h-gYAAAAJ&hl=en">Link🔗</a>
 <br>
 <!--<br>
 🏫 Republic of Data Science P2P Mentoring (Soon): 
