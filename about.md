@@ -143,7 +143,7 @@ Tools:
 <script>
   $(function(){
       $(".changing").typed({
-        strings: ["BI"," Data Science", "AI/ML","Data Engineering"],
+        strings: ["BI"," DS", "AI/ML","DE"],
         typeSpeed: 50,
 				backDelay: 2000,
 				showCursor: false,
