@@ -46,11 +46,13 @@ The computing and processing data technology capacity of computers hits double f
 
 ____
 <br>
-✅ <a href="https://www.kaggle.com/itsmecevi">Kaggle</a>
+🔴 <a href="https://www.kaggle.com/itsmecevi">Kaggle</a>
 <br>
-✅ <a href="https://github.com/itsmecevi/">Github</a>
+🟡 <a href="https://github.com/itsmecevi/">Github</a>
 <br>
-✅ Email: itsmecevi@gmail.com
+🟢 Email: itsmecevi@gmail.com
+<br>
+🔵 Phone: +6289501880467 (Privat), +6285172405791 (Business)
 
 <!--✅ <a href="https://www.example.com">Curriculum Vitae-X</a>-->
 
