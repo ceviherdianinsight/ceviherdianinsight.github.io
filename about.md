@@ -29,7 +29,7 @@ The computing and processing data technology capacity of computers hits double f
 <br>-->
 <!--🚢 Senior Data Scientist Innovez One Singapore: <a href="https://www.innovez-one.com/">Link🔗</a>
 <br>-->
-🏢 B2B Workshop: <a href="https://itsmecevi.github.io/gertaoneproject/">Link🔗</a>
+🏢 B2B Workshop: <a href="https://itsmecevi.github.io/workshop/">Link🔗</a>
 <br>
 📈 Data-Driven Research: <a href="https://scholar.google.com/citations?user=_Y2h-gYAAAAJ&hl=en">Link🔗</a>
 <br>
@@ -49,6 +49,9 @@ ____
 ✅ <a href="https://www.kaggle.com/itsmecevi">Kaggle</a>
 <br>
 ✅ <a href="https://github.com/itsmecevi/">Github</a>
+<br>
+✅ Email: itsmecevi@gmail.com
+
 <!--✅ <a href="https://www.example.com">Curriculum Vitae-X</a>-->
 
  <!--
