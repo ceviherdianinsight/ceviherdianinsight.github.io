@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 
-permalink: about
+permalink: /about
 ---
 
 <img class="col one right" src="/img/ceviyellow-rounded.png" style="padding:25px">
