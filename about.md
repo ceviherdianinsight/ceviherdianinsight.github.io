@@ -52,7 +52,7 @@ ____
 <br>
 🟢 Email: itsmecevi@gmail.com
 <br>
-🔵 Phone: +6289501880467 (Privat), +6285172405791 (Business)
+🔵 Phone/WA: +6285172405791 (Business)
 
 <!--✅ <a href="https://www.example.com">Curriculum Vitae-X</a>-->
 
