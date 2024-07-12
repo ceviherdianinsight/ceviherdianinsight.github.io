@@ -145,7 +145,7 @@ Tools:
 <script>
   $(function(){
       $(".changing").typed({
-        strings: ["BI"," DS", "AI/ML","DE"],
+        strings: ["AI/ML"],
         typeSpeed: 50,
 				backDelay: 2000,
 				showCursor: false,
