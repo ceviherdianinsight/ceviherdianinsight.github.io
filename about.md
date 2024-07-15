@@ -50,7 +50,7 @@ ____
 <br>
 🔴 <a href="https://github.com/itsmecevi/">Github</a>
 <br>
-📲 Phone/WA: +6285172405791 (Business)
+🛜 Phone/WA: +6285172405791 (Business)
 
 <!--✅ <a href="https://www.example.com">Curriculum Vitae-X</a>-->
 
