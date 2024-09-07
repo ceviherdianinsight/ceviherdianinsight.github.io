@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 <img class="col one right" src="/img/ceviyellow-rounded.png" style="padding:25px">
-<!--<img class="col one right" src="/img/sohot.jpg" style="padding:25px">-->
+<!--<img class="col one right" src="/img/ceviparis.png" style="padding:25px">-->
 
 
 <div>
