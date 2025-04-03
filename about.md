@@ -20,7 +20,7 @@ I'm <span class="changing"></span> Enthusiast
 <!--A seasoned Data Scientist with a strong background in developing and deploying cutting-edge machine-learning models and solutions (MLOps:=Machine Learning Operations). With a passion for data-driven problem-solving and a track record of successful projects in different industries, I excel in bridging the gap between data science and engineering to deliver tangible business value.-->
 
 A seasoned Data Scientist with expertise in MLOps, machine learning, and quantitative trading research. Experienced in statistical modeling, time series forecasting, and algorithmic trading to improve market predictions and trading strategies. 
-
+<br>
 Passionate about combining data science and engineering to develop innovative solutions that drive business growth and operational efficiency. The computing and processing data technology capacity of computers hits double figures every 18 months. So, lifelong learning is a must! 
 <!--I am a postgraduate student in Financial Services & Risk Management at HTW Berlin-University of Applied Sciences. My Specializing area in study is Advanced Data Analytics (Descriptive, Predictive, Prescriptive and Applied AI=Machine learning). I'm interested in exploring the new ways or technology for better insight from data.--> 
 <br>
