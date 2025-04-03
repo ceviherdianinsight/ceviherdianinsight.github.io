@@ -11,7 +11,9 @@ permalink: /about/
 
 
 <div>
-Hello, my name is Cevi Herdian, M. Sc. I'm <span class="changing"></span> Enthusiast
+Hello, my name is Cevi Herdian, M. Sc. 
+	
+I'm <span class="changing"></span> Enthusiast
 <div>
 <br>
 <br>
