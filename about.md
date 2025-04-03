@@ -20,7 +20,6 @@ Hello, my name is Cevi Herdian, M. Sc. I'm <span class="changing"></span> Enthus
 A seasoned Data Scientist with expertise in MLOps, machine learning, and quantitative trading research. Experienced in statistical modeling, time series forecasting, and algorithmic trading to improve market predictions and trading strategies. Passionate about combining data science and engineering to develop innovative solutions that drive business growth and operational efficiency.
 
 <br>
-<br>
 <!--I am a postgraduate student in Financial Services & Risk Management at HTW Berlin-University of Applied Sciences. My Specializing area in study is Advanced Data Analytics (Descriptive, Predictive, Prescriptive and Applied AI=Machine learning). I'm interested in exploring the new ways or technology for better insight from data.-->
 <br>
 The computing and processing data technology capacity of computers hits double figures every 18 months. So, lifelong learning is a must! 
