@@ -23,7 +23,6 @@ A seasoned Data Scientist with expertise in MLOps, machine learning, and quantit
 <br>
 <!--I am a postgraduate student in Financial Services & Risk Management at HTW Berlin-University of Applied Sciences. My Specializing area in study is Advanced Data Analytics (Descriptive, Predictive, Prescriptive and Applied AI=Machine learning). I'm interested in exploring the new ways or technology for better insight from data.-->
 <br>
-<br>
 The computing and processing data technology capacity of computers hits double figures every 18 months. So, lifelong learning is a must! 
 <br>
 <br>
