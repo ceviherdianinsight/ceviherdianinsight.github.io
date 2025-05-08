@@ -40,7 +40,7 @@ Passionate about combining data science and engineering to develop innovative so
 <!--<br>
 🏫 Republic of Data Science P2P Mentoring (Soon): 
 <br>-->
-🤖 Trading BOT: <a href="">Link🔗</a>
+<!--🤖 Trading BOT: <a href="">Link🔗</a>-->
 <br>
 <!--📝 Academic Publication: <a href="https://scholar.google.com/citations?user=_Y2h-gYAAAAJ&hl=en">Link🔗</a>
 <br>-->
