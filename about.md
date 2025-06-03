@@ -39,7 +39,7 @@ engineering to deliver measurable business value. The computing and processing d
 <br>-->
 <!--🚢 Senior Data Scientist Innovez One Singapore: <a href="https://www.innovez-one.com/">Link🔗</a>
 <br>-->
-🏢 B2B Workshop: <a href="https://itsmecevi.github.io/workshop/">Link🔗</a>
+🏢 B2B Workshop: <a href="[https://itsmecevi.github.io/workshop/](https://ceviherdianinsight.github.io/workshop/)">Link🔗</a>
 <br>
 📈 Data-Driven Research: <a href="https://scholar.google.com/citations?user=_Y2h-gYAAAAJ&hl=en">Link🔗</a>
 <br>
