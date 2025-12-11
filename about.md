@@ -13,7 +13,7 @@ permalink: /about/
 <div>
 Hello, my name is Cevi Herdian, M. Sc. 
 <br>	
-I'm <span class="changing"></span> Enthusiast
+I'm <span class="changing"></span> Strategist
 <div>
 <br>
 <br>
@@ -153,7 +153,7 @@ Tools:
 <script>
   $(function(){
       $(".changing").typed({
-        strings: ["AI/ML"],
+        strings: ["Data-Driven"],
         typeSpeed: 50,
 				backDelay: 2000,
 				showCursor: false,
