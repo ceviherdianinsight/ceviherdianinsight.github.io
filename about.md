@@ -17,13 +17,13 @@ I'm <span class="changing"></span> Strategist
 <div>
 <br>
 <br>
-<!--A seasoned Data Scientist with a strong background in developing and deploying cutting-edge machine-learning models and solutions (MLOps:=Machine Learning Operations). With a passion for data-driven problem-solving and a track record of successful projects in different industries, I excel in bridging the gap between data science and engineering to deliver tangible business value.-->
+<!--A seasoned Data-Driven Strategist with a strong background in developing and deploying cutting-edge machine-learning models and quantitative solutions (MLOps:=Machine Learning Operations). With a passion for data-driven problem-solving and a track record of successful projects in different industries, I excel in bridging the gap between data science and engineering to deliver tangible business value.-->
 
-A seasoned Data Scientist with deep expertise in machine learning, MLOps (Machine Learning 
+A seasoned Data Scientist with deep expertise in quantitative methods, machine learning, MLOps (Machine Learning 
 Operations), and quantitative trading research. Proven track record in building and deploying 
-advanced ML models across diverse industries including transportation, fintech, education, SEO, 
+advanced quantitative models across diverse industries including transportation, fintech, education, SEO, 
 crypto trading and software. Skilled in statistical modeling, time series forecasting, and algorithmic 
-trading, with a strong focus on enhancing market predictions and strategy optimization. 
+trading, with a strong focus on enhancing predictions and strategy optimization. 
 <br>
 <br>
 Passionate 
